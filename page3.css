@@ -64,8 +64,8 @@ h2{  text-align: center;
     margin:100px auto;
     padding:100px auto;}
 
-.container{margin: 50px;
-    padding: 50px;
+.container{margin: 1px;
+    padding: 5px;
 display:grid;
 grid-template-columns: 1fr 1fr ;
 justify-content: center;
@@ -112,7 +112,7 @@ ul {
 
    /* leaf animations */
 
-#leaves {position:relative;top:-50px;width:100%;text-align: right;}
+#leaves {position:static;top:-0px;width:100%;text-align: right;}
 
 #leaves i {
     display: inline-block;

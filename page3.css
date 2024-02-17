@@ -42,13 +42,15 @@ p1{Color:rgb(31, 0, 77);
 
 .para-1{font-size: medium;
         font-family: "Comic Sans MS";
-        text-align: center;}
+        text-align: center;
+        color:rgb(96, 15, 146);}
     
 .para-2{font-size: medium;
         font-family: "Comic Sans MS";
         text-align: center;
         margin:auto;
-        padding:auto;}
+        padding:auto;
+        color:rgb(96, 15, 146);}
     
 h2{  text-align: center;
     margin:auto;

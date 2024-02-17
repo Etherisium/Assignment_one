@@ -32,13 +32,18 @@ justify-content: center;;
 }
 
 .para-1 {font-size: medium;
-       font-family: "Comic Sans MS";}
+       font-family: "Comic Sans MS";
+       color:rgb(96, 15, 146)
+    }
 .para-2 {font-size: medium;
-    font-family: "Comic Sans MS";}
+    font-family: "Comic Sans MS";
+    color:rgb(96, 15, 146);}
 .para-3{font-size: medium;
-    font-family: "Comic Sans MS";}
+    font-family: "Comic Sans MS";
+    color:rgb(96, 15, 146);}
 .para-4{font-size: medium;
-    font-family: "Comic Sans MS";}
+    font-family: "Comic Sans MS";
+    color:rgb(96, 15, 146);}
 
 .gifff{margin: 1px;
     width: 310px;

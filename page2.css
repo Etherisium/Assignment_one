@@ -7,7 +7,7 @@ body {background-color: rgb(255, 230, 238);display: flex;
 
 img {margin: 20px;
         width: 700px;
-        height: 350px;
+        height: 400px;
         display:block;
         border-radius: 10px;
         margin-left: auto;
@@ -75,8 +75,8 @@ ul {
     ul li a:hover {color: rgb(255, 204, 230);} /* Change color on hover */
 
     .artem{margin: 80px;
-        width: 700px;
-        height: 350px;
+        width: 800px;
+        height: 500px;
         display:block;
         border-radius: 10px;
         margin-left: auto;
@@ -101,3 +101,11 @@ a:hover {color: #ff6b6b}
 ul li a.active {
     background-color:rgb(148, 77, 255); /* Change background color for active item */
   }
+
+  .gif{margin: 1px;
+    width: 750px;
+    height: 400px;
+    display:block;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;}

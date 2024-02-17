@@ -101,3 +101,7 @@ p2{ width: 200px; /* Set width of the element */
     border-radius: 15px; /* Border radius to make rounded corners */
     padding: 10px;
 color:rgb(204, 0, 102) ;}
+
+ul li a.active {
+    background-color:rgb(148, 77, 255); /* Change background color for active item */
+  }

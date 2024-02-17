@@ -110,6 +110,10 @@ ul {
     
    a:hover {color: #ff6b6b}
 
+   ul li a.active {
+    background-color:rgb(148, 77, 255); /* Change background color for active item */
+  }
+
    /* leaf animations */
 
 #leaves {position:static;top:-0px;width:100%;text-align: right;}

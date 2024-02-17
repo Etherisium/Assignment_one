@@ -96,3 +96,8 @@ color:rgb(204, 0, 102) ;}
 
 
 a:hover {color: #ff6b6b}
+
+
+ul li a.active {
+    background-color:rgb(148, 77, 255); /* Change background color for active item */
+  }

@@ -1,0 +1,98 @@
+body {background-color: rgb(255, 230, 238);display: flex;  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+
+
+img {margin: 20px;
+        width: 700px;
+        height: 350px;
+        display:block;
+        border-radius: 10px;
+        margin-left: auto;
+        margin-right: auto;}
+
+
+
+h1{color:rgb(106, 106, 249);
+    font-family:"monospace";
+    text-align: center;
+    margin:50px;
+    padding:40px;}
+    
+.container{margin: 100px;
+        padding: 50px;
+    }
+
+ul li {font-family: cursive;
+    font-size: smaller;
+        color: rgb(31, 0, 77);}
+
+ul li a:hover {color: #ff6b6b;} /* Change color on hover */
+
+p1{font-size: smaller;
+    
+    Color:rgb(31, 0, 77);
+    font-family: cursive;}
+p2 :hover{ color: #ff6b6b;}
+      
+
+.para-1{font-size: medium;
+    font-family: "Comic Sans MS";
+    margin:50px}
+
+.para-2{font-size: medium;
+    font-family: "Comic Sans MS";
+margin:50px}
+
+   
+
+.textbox{margin:20px;
+    padding: 30px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:rgb(204, 0, 102); /* Background color of the navigation bar */
+    overflow: hidden;}
+
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px; /* Padding around navigation items */
+    text-decoration: none;}
+    
+    ul li a:hover {color: rgb(255, 204, 230);} /* Change color on hover */
+
+    .artem{margin: 80px;
+        width: 700px;
+        height: 350px;
+        display:block;
+        border-radius: 10px;
+        margin-left: auto;
+        margin-right: auto;}
+
+h2{text-align: center;
+    color:rgb(148, 77, 255);
+font-family:'Franklin Gothic Medium', 'Arial Narrow';}
+
+p2{ width: 200px; /* Set width of the element */
+    height: 100px; /* Set height of the element */
+    background-color:rgb(255, 230, 242); /* Background color */
+    border: 2.5px solid rgb(204, 0, 102); /* Border color and width */
+    border-radius: 15px; /* Border radius to make rounded corners */
+    padding: 10px;
+color:rgb(204, 0, 102) ;}
+
+
+a:hover {color: #ff6b6b}

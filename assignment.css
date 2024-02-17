@@ -4,7 +4,7 @@ body {  background-color: rgb(255, 230, 238);display: flex;
     box-sizing: border-box;}
 
 
-img {margin: 20px;
+img {margin: 1px;
 width: 700px;
 height: 400px;
 display:block;
@@ -35,7 +35,22 @@ text-align: center;}
     font-family: "Comic Sans MS";}
 
 
-.star {margin: 20px;
+.giff {margin: 1px;
+    width: 300px;
+    height: 300px;
+    display:block;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;}
+
+.gif{margin: 1px;
+    width: 450px;
+    height: 200px;
+    display:block;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;}
+.star {margin: 1px;
     width: 600px;
     height: 400px;
     display:block;
@@ -43,7 +58,7 @@ text-align: center;}
     margin-left: auto;
     margin-right: auto;}
 
-.ml{margin: 20px;
+.ml{margin: 1px;
     width: 700px;
     height: 400px;
     display:block;
@@ -76,6 +91,8 @@ h2{ text-align: center;
     color:rgb(148, 77, 255);
 font-family:'Franklin Gothic Medium', 'Arial Narrow';
 text-decoration: underline;
+margin:60px;
+padding:30px;
 }
 
 .textbox{margin:20px;
@@ -106,3 +123,9 @@ ul {
    ul li a.active {
     background-color:rgb(148, 77, 255); /* Change background color for active item */
   }
+
+  .video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;} /* Adjust height as needed */
